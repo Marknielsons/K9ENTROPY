@@ -1,0 +1,8 @@
+{
+  "name": "k9entropy/research-prototype",
+  "description": "Experimental canine-EEG visualization and cryptographic randomness demonstrator",
+  "type": "project",
+  "license": "MIT",
+  "require": { "php": "^8.2" },
+  "scripts": { "test": "php tests/run.php" }
+}
