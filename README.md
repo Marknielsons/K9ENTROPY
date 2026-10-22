@@ -1,8 +1,6 @@
 # K9ENTROPY
 
-![K9ENTROPY ASCII golden retriever wearing non-invasive EEG sensors](assets/k9entropy-ascii-dog.png)
-
-*Project artwork: ASCII dog logo. Illustration only, not evidence of actual EEG recording.*
+*ASCII dog artwork is included as an asset file at `assets/k9entropy-ascii-dog.png`. Illustration only, not evidence of actual EEG recording.*
 
 **Canine neural signals × experimental entropy research × PHP dashboard.**
 
