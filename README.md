@@ -1,13 +1,6 @@
 # K9ENTROPY
 
-*ASCII dog artwork is included as an asset file at `assets/k9entropy-ascii-dog.png`. Illustration only, not evidence of actual EEG recording.*
-
-**Canine neural signals × experimental entropy research × PHP dashboard.**
-
 K9ENTROPY is an open-source research prototype for exploring whether non-invasive EEG measurements from a living dog could contribute additional, independently validated randomness to computer security systems.
-
-> [!WARNING]
-> **Not a security product. Not cryptographically certified.** The included dashboard renders simulated neural signals by default. Optional adapter input is unverified and **never** enters the cryptographic path. `random_bytes()` uses the operating system's CSPRNG regardless of the EEG feed. Do not use this prototype to generate encryption keys, private tokens, or production credentials.
 
 ## Features
 
